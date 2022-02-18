@@ -6,10 +6,10 @@ subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
 
 profile:
   align: right
-  image: atilla_prof_pic.jpg
+  image: atilla_profile_img1.png
   address: >
-    <p>999 your office number</p>
-    <p>6638 street</p>
+    <p>613-555-1212</p>
+    <p>6638 Stanmore St.</p>
     <p>Ottawa, Ontario, Canada</p>
 
 news: true  # includes a list of news items
