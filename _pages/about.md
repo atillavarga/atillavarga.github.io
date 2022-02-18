@@ -9,7 +9,7 @@ profile:
   image: atilla_prof_pic.jpg
   address: >
     <p>999 your office number</p>
-    <p>123 your address street</p>
+    <p>6638 street</p>
     <p>Ottawa, Ontario, Canada</p>
 
 news: true  # includes a list of news items
