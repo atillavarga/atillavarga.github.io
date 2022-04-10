@@ -1,5 +1,5 @@
 ---
-layout: about
+layout: About
 title: About
 permalink: /
 subtitle: MSc Student. <a href='https://carleton.ca/'>Carleton University</a>. <a href='https://www.kromati.ca/'>Kromati.ca</a>.
