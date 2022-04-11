@@ -6,7 +6,7 @@ title: blank # the website title (if blank, full name will be used instead)
 first_name: Atilla
 middle_name: C.
 last_name: Varga
-email: atilla1varga@gmail.com
+email:
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
   Resume for Atilla Varga.
 footer_text: >
@@ -53,7 +53,7 @@ og_image: # The site-wide (default for all links) Open Graph preview image
 # Social integration
 # -----------------------------------------------------------------------------
 
-github_username: atillavarga # your GitHub user name
+github_username: # your GitHub user name
 gitlab_username: # your GitLab user name
 twitter_username: atillavarga # your Twitter handle
 linkedin_username: atillavarga # your LinkedIn user name
@@ -71,7 +71,7 @@ dblp_url: # your DBLP profile url
 stackoverflow_id: #your stackoverflow id
 
 contact_note: >
-  The best way to reach me would be by sending me an email!
+  The best way to reach me is via Twitter or LinkedIn
 
 google_analytics:  # your google-analytics ID (format: UA-XXXXXXXXX)
 google_site_verification:  # your google-site-verification ID (Google Search Console)
@@ -105,7 +105,7 @@ collections:
     output: true
     permalink: /news/:path/
   projects:
-    output: true
+    output: false
     permalink: /projects/:path/
 
 news_limit: 5
