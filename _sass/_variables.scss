@@ -31,6 +31,8 @@ $atom-foottext-color: #574c4f !default;
 $atom-btext-color:    #343233 !default;
 $atom-bluetext-color: #78b0a0 !default;
 $atom-footer-color:   #efeae1 !default;
+$strong-green-color:  #28a745 !default;
+$tealgreen-color:     #33b38d !default;
 
 $grey-color:          #828282 !default;
 $grey-color-light:    lighten($grey-color, 40%);
@@ -42,5 +44,5 @@ $black-color: #000000 !default;
 
 // Theme colors
 
-$code-bg-color-light:     rgba($purple-color, 0.05);
+$code-bg-color-light:     rgba($strong-green-color, 0.05);
 $code-bg-color-dark:      #2c3237 !default;
