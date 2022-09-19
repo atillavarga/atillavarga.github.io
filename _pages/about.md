@@ -6,7 +6,7 @@ subtitle: BSc, MSc. <a href='https://carleton.ca/'>Carleton University</a>. <a h
 
 profile:
   align: right
-  image: atilla_profile_img.jpg
+  image: wedding_prof_pic.jpg
   address: >
     <p>Chemistry BSc, MSc</p>
     <p>Carleton University</p>
