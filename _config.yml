@@ -83,7 +83,7 @@ panelbear_analytics:  # panelbear analytics site ID (format: XXXXXXXXX)
 # -----------------------------------------------------------------------------
 
 blog_name:  # your blog must have a name for it to show up in the nav bar
-blog_description: Social content created for ALDiJ
+blog_description: Social
 permalink: /blog/:year/:title/
 
 # Pagination
