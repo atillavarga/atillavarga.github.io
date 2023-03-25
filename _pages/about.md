@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: BSc, MSc. <a href='https://carleton.ca/chemistry/'>Carleton University</a>. <a href='https://www.atlant3d.com/'>Atlant 3D</a>.
+subtitle: R&D Engineer at <a href='https://www.atlant3d.com/'>Atlant 3D</a>.
 
 profile:
   align: right
@@ -17,7 +17,7 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-My name is Atilla Varga and I am a Chemistry MSc graduate from the [Barry Lab](https://carleton.ca/barrylab/) and currently work as an R&D Engineer at an ALD startup [Atlant 3D](https://www.atlant3d.com/).
+My name is Atilla Varga and I am a Chemistry MSc graduate from the [Barry Lab](https://carleton.ca/barrylab/) and currently work as an R&D Engineer at an `ALD` startup [Atlant 3D](https://www.atlant3d.com/).
 
 In my current position I help improve the resolution of the micronozzle used in Atlant 3D's Nanofabricator (spatial Atomic Layer Deposition (`ALD`) instrument); as well as expand the `ALD` materials and process capabilities.
 
