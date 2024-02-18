@@ -2,12 +2,12 @@
 layout: about
 title: About
 permalink: /
-subtitle: ALD Scientist / R&D Engineer at <a href='https://www.atlant3d.com/'>Atlant 3D</a>.
+subtitle: Process Development Engineer
 
 profile:
   align: right
   image: wedding_prof_pic.jpg
-  image_circular: true # crops the image to make it circular
+  image_circular: false # crops the image to make it circular
   more_info: >
     <p>Chemistry BSc, MSc</p>
     <p>Process Development Engineer</p>
@@ -19,12 +19,10 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-My name is Atilla Varga and I am a Chemistry MSc graduate from the [Barry Lab](https://carleton.ca/barrylab/) and currently work as an R&D Engineer at an `ALD` startup [Atlant 3D](https://www.atlant3d.com/).
+My name is Atilla Varga and I am a Chemistry MSc graduate from the [Barry Lab](https://carleton.ca/barrylab/). As a results driven R&D engineer with a passion for innovation, I have a proven track record of 6+ years of `process development`, equipment innovation and device fabrication. From leading the development of novel material processes to new equipment integration, I excel at tackling complex technical challenges. 
 
-In my current position I help improve Atlant 3D's [Nanofabricator](https://www.atlant3d.com/nanofabricators) (spatial Atomic Layer Deposition (`ALD`) instrument); as well as expand the `ALD` materials and process capabilities.
+I'm also an entrepreneur, having co-founded a successful 3D printing and prototyping business, where I established efficient operations and cultivated strong client relationships. 
 
-My academic research focused on upgrading 3D-printed architectures by `ALD`, to demonstrate both dielectric and metal deposition and infiltration in these substrates. Previously I have worked on synthesizing organometallic precursors in inert-atmosphere conditions for `ALD`.
+My research background includes chemical synthesis, material and process development, further solidifying my technical foundation. 
 
-I also am a co-founder of a 3D printing company which provides professional prototyping, 3D printing and 3D modeling services to clients.
-
-My interests are in technologies for semiconductors and sustainable energy production and storage.  
+Throughout my career, I've collaborated with cross-functional teams, presented research internationally, and even developed patent-pending solutions. I seek to help advance humanity towards a more sustainable future, where semiconductor technology plays a pivotal role in addressing global challenges.
