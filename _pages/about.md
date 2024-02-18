@@ -9,8 +9,8 @@ profile:
   image: wedding_prof_pic.jpg
   address: >
     <p>Chemistry BSc, MSc</p>
-    <p>R&D Engineer at Atlant 3D</p>
-    <p>Copenhagen, Denmark</p>
+    <p>Process Development Engineer</p>
+    <p>Ottawa, Canada</p>
 
 news: false  # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
