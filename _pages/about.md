@@ -7,7 +7,7 @@ subtitle: ALD Scientist / R&D Engineer at <a href='https://www.atlant3d.com/'>At
 profile:
   align: right
   image: wedding_prof_pic.jpg
-  image_circular: false # crops the image to make it circular
+  image_circular: true # crops the image to make it circular
   more_info: >
     <p>Chemistry BSc, MSc</p>
     <p>Process Development Engineer</p>
