@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://atillavarga.com//sitemap.xml
+Sitemap: https://atillavarga.comhttps://atillavarga.com/sitemap.xml
