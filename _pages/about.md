@@ -6,7 +6,7 @@ subtitle: Process Development Engineer
 
 profile:
   align: right
-  image: wedding_prof_pic.jpg
+  image: wedding_prof_pic_zoom.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
     <p>Chemistry BSc, MSc</p>
