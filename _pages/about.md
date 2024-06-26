@@ -21,7 +21,7 @@ social: true  # includes social icons at the bottom of the page
 
 My name is Atilla Varga and I am a Chemistry MSc graduate from the [Barry Lab](https://carleton.ca/barrylab/). As a results driven R&D engineer with a passion for innovation, I have a proven track record of 6+ years of `process development`, equipment innovation and device fabrication. From leading the development of novel material processes to new equipment integration, I excel at tackling complex technical challenges. 
 
-I'm also an entrepreneur, having co-founded a successful 3D printing and prototyping business, where I established efficient operations and cultivated strong client relationships. 
+I'm also an entrepreneur, having founded a successful 3D printing and prototyping business, where I established efficient operations and cultivated strong client relationships. 
 
 My research background includes chemical synthesis, material and process development, further solidifying my technical foundation. 
 
