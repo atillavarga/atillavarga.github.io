@@ -4,16 +4,7 @@
 <svg version="1.0" xmlns="http://www.w3.org/2000/svg"
  width="800.000000pt" height="600.000000pt" viewBox="0 0 800.000000 600.000000"
  preserveAspectRatio="xMidYMid meet">
-	<style>
-        .themeable {
-            fill: #000000; /* Black for light mode */
-        }
-        @media (prefers-color-scheme: dark) {
-            .themeable {
-                fill: #FFFFFF; /* White for dark mode */
-            }
-        }
-    </style>
+
 <g transform="translate(0.000000,600.000000) scale(0.100000,-0.100000)"
 fill="#000000" stroke="none">
 <path d="M5119 4836 c-2 -2 -353 -6 -779 -10 -426 -3 -836 -11 -910 -16 -507
