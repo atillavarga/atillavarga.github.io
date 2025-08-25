@@ -11,18 +11,19 @@ profile:
   more_info: >
     <p>Chemistry BSc, MSc</p>
     <p>Process Engineer</p>
-    <p>Ottawa, Canada</p>
+    <p>Silicon Valley, USA</p>
 
 news: false  # includes a list of news items
 latest_posts: false  # includes a list of the newest posts
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
+Building the Future of Semiconductors | 2x Founder & Process Engineer.
 
-I am a highly motivated and results-oriented `R&D process engineer` with over 6 years of experience in material science, semiconductor R&D, and process development. With a proven track record of successfully leading and executing complex technical projects, from design and development to implementation and optimization. In my previous role at a deep tech startup in the semiconductor industry, I played a key role in process development for `Atomic Layer Deposition (ALD)` instruments, achieving a 95% expansion in material capabilities, 25% reduction in patterning resolution and successfully commissioned the first commercial product.
+I’m a driven builder and 2x founder with over 7 years of experience pushing semiconductor technology forward. Currently, at [Atomic Semi](https://atomicsemi.com/) I’m helping build a small, fast sermiconductor fab for chip prototyping. As Founder and CEO of [Szimpla](https://szimpla.co/), I created cutting-edge processes and equipment for `semiconductor prototyping`. I also founded a prototyping business focused on 3D printing and design, delivering innovative solutions to clients.
 
-I'm also an `entrepreneur`, having founded and led a successful 3D printing, modeling, and prototyping business where I established efficient operations and cultivated strong client relationships. 
+My expertise spans material science, process development, and `Atomic Layer Deposition (ALD)`, with a track record of big wins. At a deep tech startup, I led `ALD` process and instrument development, expanding material capabilities by 95% and launching a commercial product.
 
-My educational background includes a Master of Science in Chemistry from Carleton University, where I conducted advanced material development at the [Barry Lab](https://carleton.ca/barrylab/). Which includes precursor development (chemical synthesis), material and process development for `ALD` applications. 
+I hold a Master of Science in Chemistry from Carleton University, where I developed advanced materials and precursors for `ALD` at the [Barry Lab](https://carleton.ca/barrylab/). My work has led to patent-pending solutions, international research talks, and collaborations.
 
-Throughout my career, I've collaborated with cross-functional teams, presented research internationally, and even developed patent-pending solutions. I seek to help advance humanity towards a more sustainable future, where semiconductor and battery technology plays a pivotal role in addressing global challenges.
+Fueled by a mission to shape an efficient, tech-driven future through semiconductors, I’m here to innovate and connect. Let’s build something epic!
