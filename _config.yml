@@ -70,7 +70,7 @@ github_username: # your GitHub user name
 gitlab_username: # your GitLab user name
 x_username: atillavarga # your X handle
 mastodon_username: # your mastodon instance+username in the format instance.tld/@username
-linkedin_username: atillavarga # your LinkedIn user name
+linkedin_username: # your LinkedIn user name
 telegram_username: # your Telegram user name
 scholar_userid: hd5vYsQAAAAJ&hl # your Google Scholar ID
 semanticscholar_id: # your Semantic Scholar ID
@@ -103,7 +103,7 @@ zotero_username: # your zotero username
 wechat_qr: # filename of your wechat qr-code saved as an image (e.g., wechat-qr.png if saved to assets/img/wechat-qr.png)
 
 contact_note: >
-  The best way to reach me is via X or LinkedIn
+  The best way to reach me is via X
 
 # -----------------------------------------------------------------------------
 # Analytics and search engine verification
