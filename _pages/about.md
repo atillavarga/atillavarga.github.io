@@ -6,7 +6,7 @@ subtitle:
 
 profile:
   align: right
-  image: wedding_prof_pic_zoom.jpg
+  image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
     <p>Chemistry BSc, MSc</p>
