@@ -3,7 +3,7 @@ layout: page
 title: Private Projects
 permalink: /private-projects/
 description: A collection of my private projects under development.
-nav: true
+nav: false
 nav_order: 4
 display_categories: [work, fun]
 horizontal: false
