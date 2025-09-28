@@ -171,6 +171,9 @@ collections:
   projects:
     output: false
     permalink: /projects/:path/
+  private_projects:
+    output: false
+    permalink: /private-projects/:path/
 
 announcements:
   enabled: true
