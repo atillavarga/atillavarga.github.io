@@ -1,19 +1,17 @@
 ---
 layout: page
-title: project 1
+title: 
 description: a project with a background image
 img: assets/img/12.jpg
 importance: 1
 category: work
-published: false  # Add this line to hide the project
+published: true  # Add this line to hide the project
 related_publications: einstein1956investigations, einstein1950meaning
 ---
 
-Every project has a beautiful feature showcase page.
-It's easy to include images in a flexible 3-column grid format.
-Make your photos 1/3, 2/3, or full width.
+WIP
 
-To give your project a background in the portfolio page, just add the img tag to the front matter like so:
+Testing chemical structures
 
     ---
     layout: page
@@ -35,6 +33,20 @@ To give your project a background in the portfolio page, just add the img tag to
 </div>
 <div class="caption">
     Caption photos easily. On the left, a road goes through a tunnel. Middle, leaves artistically fall in a hipster photoshoot. Right, in another hipster photoshoot, a lumberjack grasps a handful of pine needles.
+</div>
+
+## Chemical Structures
+
+For displaying chemical structures of atomic layer deposition precursors, you can use scalable SVG images. Place your SVG files in `assets/img/` and include them like this:
+
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.html path="assets/img/chemical_structure.svg" title="Chemical Structure of Precursor" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
+
+<div class="caption">
+    Example chemical structure SVG. Replace with your actual precursor structures.
 </div>
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
