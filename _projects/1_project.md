@@ -13,13 +13,6 @@ WIP
 
 Testing chemical structures
 
-    ---
-    layout: page
-    title: project
-    description: a project with a background image
-    img: /assets/img/12.jpg
-    ---
-
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
         {% include figure.html path="assets/img/1.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
@@ -41,13 +34,15 @@ For displaying chemical structures of atomic layer deposition precursors, you ca
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/chemical_structure.svg" title="Chemical Structure of Precursor" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assest/img/test.svg" title="Chemical Structure of Precursor" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 
 <div class="caption">
     Example chemical structure SVG. Replace with your actual precursor structures.
 </div>
+
+
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
         {% include figure.html path="assets/img/5.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
