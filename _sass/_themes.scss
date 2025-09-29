@@ -91,3 +91,7 @@ html[data-theme='dark'] {
     display: block;
   }
 }
+
+html[data-theme='dark'] img[src$=".svg"] {
+  filter: invert(1) brightness(1.1);
+}
