@@ -97,5 +97,5 @@ html[data-theme='dark'] img[src$=".svg"] {
 }
 
 .chemical-svg path {
-  stroke: var(--global-text-color);
+  stroke: var(--global-text-color) !important;
 }
