@@ -366,6 +366,11 @@ blockquote {
         }
       }
     }
+
+    // Make X logo slightly smaller
+    a[title="X"] i {
+      font-size: 3.2rem;
+    }
   }
 
   .contact-note {
