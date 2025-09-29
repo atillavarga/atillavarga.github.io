@@ -1,0 +1,12 @@
+<svg width="200" height="100" xmlns="http://www.w3.org/2000/svg">
+  <!-- Simple chemical structure example: Water molecule -->
+  <circle cx="50" cy="50" r="8" fill="red" /> <!-- Oxygen -->
+  <text x="45" y="55" font-size="12" fill="white">O</text>
+  <circle cx="30" cy="30" r="6" fill="white" stroke="black" /> <!-- Hydrogen -->
+  <text x="27" y="35" font-size="10" fill="black">H</text>
+  <circle cx="70" cy="30" r="6" fill="white" stroke="black" /> <!-- Hydrogen -->
+  <text x="67" y="35" font-size="10" fill="black">H</text>
+  <line x1="50" y1="42" x2="30" y2="36" stroke="black" stroke-width="2" />
+  <line x1="50" y1="42" x2="70" y2="36" stroke="black" stroke-width="2" />
+  <text x="80" y="50" font-size="14" fill="black">H₂O</text>
+</svg>
