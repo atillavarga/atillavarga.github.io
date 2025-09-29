@@ -160,3 +160,28 @@ document.addEventListener('DOMContentLoaded', function() {
         toggleTheme(localStorage.getItem("theme"));
     });
 });
+
+// Scroll footer functionality
+document.addEventListener('DOMContentLoaded', function() {
+    const scrollFooter = document.getElementById('scroll-footer');
+
+    if (scrollFooter) {
+        function checkScroll() {
+            const scrollTop = window.pageYOffset || document.documentElement.scrollTop;
+            const windowHeight = window.innerHeight;
+            const documentHeight = document.documentElement.scrollHeight;
+
+            // Show footer when scrolled to within 50px of the bottom
+            if (scrollTop + windowHeight >= documentHeight - 50) {
+                scrollFooter.classList.add('visible');
+            } else {
+                scrollFooter.classList.remove('visible');
+            }
+        }
+
+        // Check scroll position on load and scroll
+        window.addEventListener('scroll', checkScroll);
+        window.addEventListener('resize', checkScroll);
+        checkScroll(); // Initial check
+    }
+});

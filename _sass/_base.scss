@@ -425,6 +425,19 @@ footer.fixed-bottom {
   }
 }
 
+footer.scroll-footer {
+  opacity: 0;
+  transform: translateY(100%);
+  transition: opacity 0.3s ease, transform 0.3s ease;
+  pointer-events: none;
+
+  &.visible {
+    opacity: 1;
+    transform: translateY(0);
+    pointer-events: auto;
+  }
+}
+
 footer.sticky-bottom {
   border-top: 1px solid var(--global-divider-color);
   padding-top: 40px;
