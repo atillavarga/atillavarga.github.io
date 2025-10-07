@@ -53,13 +53,13 @@ Further synthesis of Copper NHC precursors.
 ### Results
 Best ALD precursor candidate was the NHC-Cu-NeoSi precursor with the following volatility and thermal stability charactersistics.
 
-NHC-Cu_NeoSi `TGA`.
+NHC-Cu_NeoSi <span data-bs-toggle="tooltip" data-bs-placement="top" title="Thermogravimetric Analysis">TGA</span>.
 {% include figure.html path="assets/img/neosi_cu_tga.png" title="copper precursors" class="img-fluid rounded z-depth-1" %}
 
-NHC-Cu_NeoSi `DSC`.
+NHC-Cu_NeoSi <span data-bs-toggle="tooltip" data-bs-placement="top" title="Differential Scanning Calorimetry">DSC</span>.
 {% include figure.html path="assets/img/neosi_cu_dsc.png" title="copper precursors" class="img-fluid rounded z-depth-1" %}
 
-NHC-Cu_NeoSi `saturation curve`.
+NHC-Cu_NeoSi <span data-bs-toggle="tooltip" data-bs-placement="top" title="ALD Saturation Curve">saturation curve</span>.
 {% include figure.html path="assets/img/neosi_cu_saturation.png" title="copper precursors" class="img-fluid rounded z-depth-1" %}
 
 *This work was completed as part of the Bachelor of Science in Chemistry program at Carleton University.*
