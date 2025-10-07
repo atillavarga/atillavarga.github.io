@@ -2,7 +2,7 @@
 layout: page
 title: "3D Printing & Prototyping"
 description: "Custom 3D printed solutions for various applications"
-img: assets/img/3dprint_turbine.png
+img: assets/img/3dprint_nmr_tube_holder.png
 importance: 1
 category: work
 published: true
