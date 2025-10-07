@@ -1,8 +1,8 @@
 ---
 layout: page
-title: "BSc Thesis: Copper Precursors for Atomic Layer Deposition"
+title: "Copper Precursors for ALD"
 description: "Development and characterization of novel copper precursors for ALD applications"
-img: assets/img/thesis_cover.jpg
+img: assets/img/bsc_thesis_cover.png
 importance: 2
 category: academic
 published: true
