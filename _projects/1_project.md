@@ -2,59 +2,59 @@
 layout: page
 title: "3D Printing & Prototyping"
 description: "Custom 3D printed solutions for various applications"
-img: assets/img/3d_printing_showcase.jpg
+img: assets/img/3dprint_turbine.png
 importance: 1
 category: work
-published: false
+published: true
 ---
 
 ## 3D Printing & Prototyping Portfolio
 
 As a founder of a prototyping business and semiconductor process engineer, I've designed and manufactured numerous custom 3D printed components for various applications. From semiconductor equipment to research tools, these prints demonstrate the power of additive manufacturing in solving complex engineering challenges.
 
-### Semiconductor Equipment Components
+### Chemical & Molecular Models
 
 <div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/3d_semiconductor_fixture.jpg" title="ALD Reactor Component" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/3d_gas_manifold.jpg" title="Custom Gas Manifold" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
-    Left: Custom ALD reactor fixture with integrated cooling channels. Right: Multi-port gas manifold for precursor delivery systems.
-</div>
-
-### Research & Laboratory Tools
-
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/3d_sample_holder.jpg" title="QCM Sample Holder" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/3d_optical_mount.jpg" title="Optical Component Mount" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/3d_microscope_adapter.jpg" title="Microscope Adapter" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
-    Custom laboratory tools: Quartz Crystal Microbalance sample holder, optical component mount, and microscope adapter for specialized research applications.
-</div>
-
-### Industrial & Manufacturing Aids
-
-<div class="row justify-content-sm-center">
-    <div class="col-sm-8 mt-3 mt-md-0">
-        {% include figure.html path="assets/img/3d_jig_fixture.jpg" title="Assembly Jig" class="img-fluid rounded z-depth-1" %}
+    <div class="col-sm-4 mt-3 mt-md-0">
+        {% include figure.html path="assets/img/3dprint_co_molecule.png" title="CO Molecule Model" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm-4 mt-3 mt-md-0">
-        {% include figure.html path="assets/img/3d_measurement_tool.jpg" title="Precision Measurement Tool" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/img/3dprint_cu_newsi.png" title="Cu-NeoSi Precursor Model" class="img-fluid rounded z-depth-1" %}
+    </div>
+    <div class="col-sm-4 mt-3 mt-md-0">
+        {% include figure.html path="assets/img/3dprint_molecule1.png" title="Molecular Structure Model" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
-    Left: Custom assembly jig for complex component positioning. Right: Precision measurement tool with integrated calipers.
+    3D printed molecular models for visualization and educational purposes, including CO molecule and copper precursor structures.
+</div>
+
+### Laboratory Equipment & Tools
+
+<div class="row justify-content-sm-center">
+    <div class="col-sm-6 mt-3 mt-md-0">
+        {% include figure.html path="assets/img/3dprint_nmr_tube_holder.png" title="NMR Tube Holder" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
+<div class="caption">
+    Custom NMR tube holder designed for secure sample positioning during spectroscopic analysis.
+</div>
+
+### Functional Prototypes & Industrial Components
+
+<div class="row">
+    <div class="col-sm-4 mt-3 mt-md-0">
+        {% include figure.html path="assets/img/3dprint_turbine.png" title="Turbine Prototype" class="img-fluid rounded z-depth-1" %}
+    </div>
+    <div class="col-sm-4 mt-3 mt-md-0">
+        {% include figure.html path="assets/img/3dprint_flex_last.png" title="Flexible Shoe Last" class="img-fluid rounded z-depth-1" %}
+    </div>
+    <div class="col-sm-4 mt-3 mt-md-0">
+        {% include figure.html path="assets/img/3dprint_shoe_last.png" title="Shoe Last Mold" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
+<div class="caption">
+    Diverse functional prototypes: turbine component for fluid dynamics testing, flexible shoe last for footwear design, and traditional shoe last mold.
 </div>
 
 ### Materials & Technologies Used
