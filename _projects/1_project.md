@@ -8,11 +8,9 @@ category: work
 published: true
 ---
 
-## 3D Printing & Prototyping Portfolio
+As a founder of a prototyping business, I've designed and manufactured numerous custom 3D printed components for various applications. Below are a few examples of parts I designed, iterated on and printed.
 
-As a founder of a prototyping business and semiconductor process engineer, I've designed and manufactured numerous custom 3D printed components for various applications. From semiconductor equipment to research tools, these prints demonstrate the power of additive manufacturing in solving complex engineering challenges.
-
-### Chemical & Molecular Models
+### Molecule Models
 
 <div class="row">
     <div class="col-sm-4 mt-3 mt-md-0">
@@ -61,33 +59,16 @@ As a founder of a prototyping business and semiconductor process engineer, I've 
 
 **Printing Technologies:**
 - FDM (Fused Deposition Modeling) for robust functional parts
-- SLA (Stereolithography) for high-precision components
-- SLS (Selective Laser Sintering) for complex geometries
 
 **Materials:**
-- Engineering-grade thermoplastics (ABS, PETG, Nylon)
-- High-temperature resins for semiconductor applications
+- Thermoplastics (PLA, ABS, PETG)
+- High-temperature materials for semiconductor applications (Nylon)
 - Metal-filled filaments for enhanced durability
-- Biocompatible materials for specialized applications
 
 ### Design Considerations
 
 Each 3D printed component is designed with specific application requirements in mind:
-- **Thermal stability** for high-temperature semiconductor processes
-- **Chemical resistance** for corrosive precursor environments
+- **Thermal stability** for high-temperature processes
+- **Chemical resistance** for corrosive environments
 - **Precision tolerances** for exact component fitting
 - **Structural integrity** for long-term reliability
-
-### Impact & Applications
-
-These custom 3D printed solutions have been deployed in:
-- Semiconductor fabrication facilities
-- University research laboratories
-- Industrial manufacturing lines
-- Startup prototyping workflows
-
-The ability to rapidly iterate designs and produce custom components has significantly accelerated development timelines and reduced costs compared to traditional manufacturing methods.
-
----
-
-*For custom 3D printing services or design consultation, feel free to reach out.*
