@@ -43,7 +43,7 @@ Copper metal thin films continue to be used as an interconnect material for sili
 <br>
 
 ### Synthesis Route
-Overview of the synthesis steps, begining with the common starting material.
+Overview of the synthesis steps, beginning with the common starting material.
 {% include figure.html path="assets/img/starting_salt.png" title="starting material" class="img-fluid rounded z-depth-1" %}
 
 Further synthesis of Copper NHC precursors.
@@ -52,7 +52,7 @@ Further synthesis of Copper NHC precursors.
 <br>
 
 ### Results
-The best ALD precursor candidate was the NHC-Cu-NeoSi precursor with the following volatility and thermal stability charactersistics.
+The best ALD precursor candidate was the NHC-Cu-NeoSi precursor with the following volatility and thermal stability characteristics.
 
 NHC-Cu_NeoSi <span data-bs-toggle="tooltip" data-bs-placement="top" title="Thermogravimetric Analysis - a measurement of a material's mass change as a function of temperature">`TGA`</span> with an onset of vaporization at 100 °C and 1 Torr temperature at 143 °C.
 {% include figure.html path="assets/img/neosi_cu_tga.png" title="neosi tga" class="img-fluid rounded z-depth-1" %}
@@ -60,12 +60,12 @@ NHC-Cu_NeoSi <span data-bs-toggle="tooltip" data-bs-placement="top" title="Therm
 NHC-Cu_NeoSi <span data-bs-toggle="tooltip" data-bs-placement="top" title="Differential Scanning Calorimetry - a measurement of the heat flow  between a sample and a reference. Downward peaks representing endothermic events (heat absorption) and upward peaks showing exothermic events (heat release).">`DSC`</span> with a decomposition point at 200 °C.
 {% include figure.html path="assets/img/neosi_cu_dsc.png" title="neosi dsc" class="img-fluid rounded z-depth-1" %}
 
-NHC-Cu_NeoSi <span data-bs-toggle="tooltip" data-bs-placement="top" title="A QCM (Quartz Crystal Microbalance) mass gain experinment showing mass gain with increasing precursor dosage (pulse length).">`saturation curve`</span> curve showing self limiting growth behaviour. 
+NHC-Cu_NeoSi <span data-bs-toggle="tooltip" data-bs-placement="top" title="A QCM (Quartz Crystal Microbalance) mass gain experiment showing mass gain with increasing precursor dosage (pulse length).">`saturation curve`</span> curve showing self limiting growth behaviour. 
 {% include figure.html path="assets/img/neosi_cu_saturation.png" title="neosi saturation curve" class="img-fluid rounded z-depth-1" %}
 
 <br>
 ### Homemade ALD Tool
-The saturation curve and ALD experinments were performed on a home built ALD tool.
+The saturation curve and ALD experiments were performed on a home built ALD tool.
 {% include figure.html path="assets/img/homemade_ald_tool.png" title="homemade ald tool" class="img-fluid rounded z-depth-1" %}
 
 <br>
