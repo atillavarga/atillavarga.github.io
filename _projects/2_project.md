@@ -50,7 +50,7 @@ Overview of the synthesis steps, begining with the common starting material.
 
 Further synthesis of Copper NHC precursors.
 {% include figure.html path="assets/img/precursors_synthesis.png" title="copper precursors" class="img-fluid rounded z-depth-1" %}
-
+ 
 
 ### Results
 The best ALD precursor candidate was the NHC-Cu-NeoSi precursor with the following volatility and thermal stability charactersistics.
@@ -64,7 +64,9 @@ NHC-Cu_NeoSi <span data-bs-toggle="tooltip" data-bs-placement="top" title="Diffe
 NHC-Cu_NeoSi <span data-bs-toggle="tooltip" data-bs-placement="top" title="A QCM (Quartz Crystal Microbalance) mass gain experinment showing mass gain with increasing precursor dosage (pulse length).">`saturation curve`</span> curve showing self limiting growth behaviour. 
 {% include figure.html path="assets/img/neosi_cu_saturation.png" title="neosi saturation curve" class="img-fluid rounded z-depth-1" %}
 
+ 
 The saturation curve and ALD experinments were performed on a home built ALD tool.
 {% include figure.html path="assets/img/homemade_ald_tool.png" title="homemade ald tool" class="img-fluid rounded z-depth-1" %}
 
+ 
 *This work was completed as part of the Bachelor of Science in Chemistry program at Carleton University.*
