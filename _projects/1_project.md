@@ -1,74 +1,93 @@
 ---
 layout: page
-title: Copper Precursor
-description: a project with a background image
-img: assets/img/12.jpg
+title: "3D Printing & Prototyping"
+description: "Custom 3D printed solutions for various applications"
+img: assets/img/3d_printing_showcase.jpg
 importance: 1
 category: work
-published: false  # Add this line to hide the project
-related_publications: einstein1956investigations, einstein1950meaning
+published: false
 ---
 
-WIP
+## 3D Printing & Prototyping Portfolio
 
-Testing chemical structures
+As a founder of a prototyping business and semiconductor process engineer, I've designed and manufactured numerous custom 3D printed components for various applications. From semiconductor equipment to research tools, these prints demonstrate the power of additive manufacturing in solving complex engineering challenges.
 
-## Chemical Structures
-
-For displaying chemical structures of atomic layer deposition precursors, you can use scalable SVG images. Place your SVG files in `assets/img/` and include them like this:
+### Semiconductor Equipment Components
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/test.svg" title="Chemical Structure of Precursor" class="img-fluid rounded z-depth-1" chemical=true %}
+        {% include figure.html path="assets/img/3d_semiconductor_fixture.jpg" title="ALD Reactor Component" class="img-fluid rounded z-depth-1" %}
+    </div>
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.html path="assets/img/3d_gas_manifold.jpg" title="Custom Gas Manifold" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
-
 <div class="caption">
-    Example chemical structure SVG. Replace with your actual precursor structures.
+    Left: Custom ALD reactor fixture with integrated cooling channels. Right: Multi-port gas manifold for precursor delivery systems.
 </div>
 
+### Research & Laboratory Tools
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/5.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/img/3d_sample_holder.jpg" title="QCM Sample Holder" class="img-fluid rounded z-depth-1" %}
+    </div>
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.html path="assets/img/3d_optical_mount.jpg" title="Optical Component Mount" class="img-fluid rounded z-depth-1" %}
+    </div>
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.html path="assets/img/3d_microscope_adapter.jpg" title="Microscope Adapter" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
-    This image can also have a caption. It's like magic.
+    Custom laboratory tools: Quartz Crystal Microbalance sample holder, optical component mount, and microscope adapter for specialized research applications.
 </div>
 
-You can also put regular text between your rows of images.
-Say you wanted to write a little bit about your project before you posted the rest of the images.
-You describe how you toiled, sweated, *bled* for your project, and then... you reveal its glory in the next row of images.
-
+### Industrial & Manufacturing Aids
 
 <div class="row justify-content-sm-center">
     <div class="col-sm-8 mt-3 mt-md-0">
-        {% include figure.html path="assets/img/6.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/img/3d_jig_fixture.jpg" title="Assembly Jig" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm-4 mt-3 mt-md-0">
-        {% include figure.html path="assets/img/11.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/img/3d_measurement_tool.jpg" title="Precision Measurement Tool" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
-    You can also have artistically styled 2/3 + 1/3 images, like these.
+    Left: Custom assembly jig for complex component positioning. Right: Precision measurement tool with integrated calipers.
 </div>
 
+### Materials & Technologies Used
 
-The code is simple.
-Just wrap your images with `<div class="col-sm">` and place them inside `<div class="row">` (read more about the <a href="https://getbootstrap.com/docs/4.4/layout/grid/">Bootstrap Grid</a> system).
-To make images responsive, add `img-fluid` class to each; for rounded corners and shadows use `rounded` and `z-depth-1` classes.
-Here's the code for the last row of images above:
+**Printing Technologies:**
+- FDM (Fused Deposition Modeling) for robust functional parts
+- SLA (Stereolithography) for high-precision components
+- SLS (Selective Laser Sintering) for complex geometries
 
-{% raw %}
-```html
-<div class="row justify-content-sm-center">
-    <div class="col-sm-8 mt-3 mt-md-0">
-        {% include figure.html path="assets/img/6.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm-4 mt-3 mt-md-0">
-        {% include figure.html path="assets/img/11.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-```
-{% endraw %}
+**Materials:**
+- Engineering-grade thermoplastics (ABS, PETG, Nylon)
+- High-temperature resins for semiconductor applications
+- Metal-filled filaments for enhanced durability
+- Biocompatible materials for specialized applications
+
+### Design Considerations
+
+Each 3D printed component is designed with specific application requirements in mind:
+- **Thermal stability** for high-temperature semiconductor processes
+- **Chemical resistance** for corrosive precursor environments
+- **Precision tolerances** for exact component fitting
+- **Structural integrity** for long-term reliability
+
+### Impact & Applications
+
+These custom 3D printed solutions have been deployed in:
+- Semiconductor fabrication facilities
+- University research laboratories
+- Industrial manufacturing lines
+- Startup prototyping workflows
+
+The ability to rapidly iterate designs and produce custom components has significantly accelerated development timelines and reduced costs compared to traditional manufacturing methods.
+
+---
+
+*For custom 3D printing services or design consultation, feel free to reach out.*
