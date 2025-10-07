@@ -53,15 +53,18 @@ Further synthesis of Copper NHC precursors.
 
 
 ### Results
-Best ALD precursor candidate was the NHC-Cu-NeoSi precursor with the following volatility and thermal stability charactersistics.
+The best ALD precursor candidate was the NHC-Cu-NeoSi precursor with the following volatility and thermal stability charactersistics.
 
 NHC-Cu_NeoSi <span data-bs-toggle="tooltip" data-bs-placement="top" title="Thermogravimetric Analysis - a measurement of a material's mass change as a function of temperature">`TGA`</span> with an onset of vaporization at 100 °C and 1 Torr temperature at 143 °C.
-{% include figure.html path="assets/img/neosi_cu_tga.png" title="copper precursors" class="img-fluid rounded z-depth-1" %}
+{% include figure.html path="assets/img/neosi_cu_tga.png" title="neosi tga" class="img-fluid rounded z-depth-1" %}
 
-NHC-Cu_NeoSi <span data-bs-toggle="tooltip" data-bs-placement="top" title="Differential Scanning Calorimetry - a measurement of the heat flow difference between a sample and a reference. Downward peaks representing endothermic events (heat absorption) and upward peaks showing exothermic events (heat release).">`DSC`</span> with a decomposition point at 200 °C.
-{% include figure.html path="assets/img/neosi_cu_dsc.png" title="copper precursors" class="img-fluid rounded z-depth-1" %}
+NHC-Cu_NeoSi <span data-bs-toggle="tooltip" data-bs-placement="top" title="Differential Scanning Calorimetry - a measurement of the heat flow  between a sample and a reference. Downward peaks representing endothermic events (heat absorption) and upward peaks showing exothermic events (heat release).">`DSC`</span> with a decomposition point at 200 °C.
+{% include figure.html path="assets/img/neosi_cu_dsc.png" title="neosi dsc" class="img-fluid rounded z-depth-1" %}
 
-NHC-Cu_NeoSi <span data-bs-toggle="tooltip" data-bs-placement="top" title="ALD saturation curve - a QCM (Quartz Crystal Microbalance) mass gain experinment showing self limiting behaviour with increasing precursor dosage.">`saturation curve`</span>.
-{% include figure.html path="assets/img/neosi_cu_saturation.png" title="copper precursors" class="img-fluid rounded z-depth-1" %}
+NHC-Cu_NeoSi <span data-bs-toggle="tooltip" data-bs-placement="top" title="A QCM (Quartz Crystal Microbalance) mass gain experinment showing mass gain with increasing precursor dosage (pulse length).">`saturation curve`</span> curve showing self limiting growth behaviour. 
+{% include figure.html path="assets/img/neosi_cu_saturation.png" title="neosi saturation curve" class="img-fluid rounded z-depth-1" %}
+
+The saturation curve and ALD experinments were performed on a home built ALD tool.
+{% include figure.html path="assets/img/homemade_ald_tool.png" title="homemade ald tool" class="img-fluid rounded z-depth-1" %}
 
 *This work was completed as part of the Bachelor of Science in Chemistry program at Carleton University.*
