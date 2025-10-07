@@ -43,10 +43,14 @@ thesis_pdf: Atilla_Varga_BSc_thesis.pdf
 
 Copper metal thin films continue to be used as an interconnect material for silicon integrated circuits. Copper reduces propagation delays, power consumption, and size of the interconnects in the circuits, which makes it a highly sought-after metal in the field of nanotechnology. Atomic layer deposition (ALD) is a layer by layer, self-limiting, thin film deposition technique excels at depositing nanoscale films. However, the thickness of the copper film needs to be reduced to <2 nm to keep up with the ever-decreasing size. This implies that the ligand attached to the copper precursor needs to promote a self-limiting behaviour of the compound for better conformality and perform better than the currently available precursors. We can use N-heterocyclic carbenes (NHCs) as the self-limiting behaviour promoting ligand in ALD to increase the conformality of the film. Such a concept hasn’t been described before in the field, although NHC’s are known to bind strongly to metallic surfaces as a self-assembled monolayer. Our group has developed a general framework for coinage metal precursors where one ligand is the intended self-limiting ligand (NHC) and the other ligand leaves the surface upon chemisorption. The above framework seems to work; however, the precursor is not thermodynamically stable enough to survive the delivery temperature. Therefore, different leaving ligands (CF3 and methyl(trimethylsilyl)) and a different NHC (isopropyl side groups) were synthesized and tested. The best leaving ligand was determined to be methyl(trimethylsilyl), which when paired with the isopropyl NHC sufficiently increased the thermal stability and volatility of the resulting precursor. The onset of thermal decomposition and 1 Torr temperature was 188 °C and 143 °C respectively, giving a thermal range of 45 °C.
 
-## Key Research Areas
+### Synthesis Route
+Overview of the synthesis steps, begining with the common starting material.
+{% include figure.html path="assets/img/starting_salt.png" title="starting material" class="img-fluid rounded z-depth-1" %}
+<div class="caption">Common starting material </div>
 
-### Introduction
-[Brief introduction to your research topic and motivation]
+Further synthesis of Copper NHC precursors
+{% include figure.html path="assets/img/precursors_synthesis.png" title="copper precursors" class="img-fluid rounded z-depth-1" %}
+<div class="caption">Copper NHC precursors synthesis </div>
 
 ### Materials and Methods
 [Overview of materials used and experimental approaches]
@@ -56,19 +60,6 @@ Copper metal thin films continue to be used as an interconnect material for sili
 
 ### Conclusion
 [Main conclusions and future implications]
-
-## Thesis Figures
-
-<div class="row">
-  <div class="col-md-6">
-    {% include figure.html path="assets/img/thesis_figure1.png" title="Thesis Figure 1" class="img-fluid rounded z-depth-1" %}
-    <div class="caption">Figure 1: [Figure caption]</div>
-  </div>
-  <div class="col-md-6">
-    {% include figure.html path="assets/img/thesis_figure2.png" title="Thesis Figure 2" class="img-fluid rounded z-depth-1" %}
-    <div class="caption">Figure 2: [Figure caption]</div>
-  </div>
-</div>
 
 
 *This work was completed as part of the Bachelor of Science in Chemistry program at Carleton University.*
