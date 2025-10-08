@@ -66,7 +66,8 @@ NHC-Cu_NeoSi <span data-bs-toggle="tooltip" data-bs-placement="top" title="A QCM
 <br>
 ### Homemade ALD Tool
 The saturation curve and ALD experiments were performed on a home built ALD tool.
-{% include figure.html path="assets/img/homemade_ald_tool.png" title="homemade ald tool" class="img-fluid rounded z-depth-1" %}
+{% include figure.html path="assets/img/homemade_ald_tool.png" title="homemade ald tool model" class="img-fluid rounded z-depth-1" %}
+{% include figure.html path="assets/img/homemade_ald_actual.png" title="homemade ald tool" class="img-fluid rounded z-depth-1" %}
 
 <br>
 
