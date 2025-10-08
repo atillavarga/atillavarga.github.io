@@ -4,7 +4,7 @@ title: "Developer's Playground"
 description: "An interactive journey through code, creativity, and problem-solving adventures"
 img: /assets/img/prof_pic.jpg
 importance: 2
-category: fun
+category: Fun
 published: false
 ---
 

@@ -4,7 +4,7 @@ title: "Copper Precursors for ALD"
 description: "Development and characterization of novel copper precursors for ALD applications"
 img: assets/img/bsc_thesis_cover.png
 importance: 2
-category: academic
+category: Academic
 published: true
 thesis_pdf: Atilla_Varga_BSc_thesis.pdf
 ---

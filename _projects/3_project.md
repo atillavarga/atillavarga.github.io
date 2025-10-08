@@ -4,7 +4,7 @@ title: "Infiltration of 3D Printed Polymers"
 description: "Enhancing 3D Printed Substrates Using Atomic Layer Deposition"
 img: assets/img/msc_cover_image.png
 importance: 3
-category: academic
+category: Academic
 published: true
 thesis_pdf: Atilla_Varga_MSc_thesis.pdf
 ---

@@ -4,7 +4,7 @@ title: "3D Printing & Prototyping"
 description: "Custom 3D printed solutions for various applications"
 img: assets/img/3dprint_nmr_tube_holder.png
 importance: 1
-category: work
+category: Work
 published: true
 ---
 
