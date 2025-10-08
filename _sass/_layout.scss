@@ -48,4 +48,101 @@ body.sticky-bottom-footer {
 * Projects
 *****************************************************************************/
 
+// Developer Playground Styles
+.fun-fact {
+  background: linear-gradient(135deg, var(--global-bg-color) 0%, rgba(var(--global-theme-color-rgb), 0.1) 100%);
+  border: 1px solid rgba(var(--global-theme-color-rgb), 0.2);
+  border-radius: 8px;
+  padding: 1rem;
+  margin-bottom: 1rem;
+  transition: transform 0.2s ease, box-shadow 0.2s ease;
+
+  &:hover {
+    transform: translateY(-2px);
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
+  }
+
+  h6 {
+    color: var(--global-theme-color);
+    margin-bottom: 0.5rem;
+    font-weight: 600;
+  }
+
+  p {
+    margin: 0;
+    font-size: 0.9rem;
+    line-height: 1.4;
+  }
+}
+
+.achievements {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+  gap: 1rem;
+  margin: 2rem 0;
+
+  .achievement {
+    display: flex;
+    align-items: center;
+    background: linear-gradient(135deg, var(--global-bg-color) 0%, rgba(var(--global-theme-color-rgb), 0.05) 100%);
+    border: 1px solid rgba(var(--global-theme-color-rgb), 0.15);
+    border-radius: 8px;
+    padding: 1rem;
+    transition: all 0.2s ease;
+
+    &:hover {
+      transform: translateY(-2px);
+      box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
+      border-color: var(--global-theme-color);
+    }
+
+    .achievement-icon {
+      font-size: 1.5rem;
+      margin-right: 0.75rem;
+      flex-shrink: 0;
+    }
+
+    strong {
+      color: var(--global-text-color);
+      display: block;
+      margin-bottom: 0.25rem;
+    }
+  }
+}
+
+.tech-stack {
+  margin-top: 0.75rem;
+
+  .badge {
+    margin-right: 0.25rem;
+    margin-bottom: 0.25rem;
+    font-size: 0.75rem;
+    padding: 0.25rem 0.5rem;
+  }
+}
+
+// Code block styling for the playground
+.highlight {
+  border-radius: 8px;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
+  margin: 1rem 0;
+
+  pre {
+    border-radius: 8px;
+    padding: 1rem;
+  }
+}
+
+// Alert styling for the welcome message
+.alert-info {
+  background: linear-gradient(135deg, rgba(23, 162, 184, 0.1) 0%, rgba(23, 162, 184, 0.05) 100%);
+  border-color: rgba(23, 162, 184, 0.3);
+  border-radius: 8px;
+
+  .alert-heading {
+    color: #17a2b8;
+    margin-bottom: 0.5rem;
+  }
+}
+
 // TODO: redefine projects layout.
