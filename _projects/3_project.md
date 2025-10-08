@@ -44,14 +44,9 @@ My masters thesis focused on the integration of 3D printing and Atomic Layer Dep
 
 ## Modified Material Example
 
-Below is a video of two `benchy` structures which were printed in ABS; an untreated one (left), and one coated in Alumina using a `TMA` and water ALD process (right).
-Both structures were placed on a stage in a desiccator with ~20 mL of acetone at the bottom. Time is in Hours:Minutes.
+Below is a video of two <span data-bs-toggle="tooltip" data-bs-placement="top" title="Benchy - A common test structure use for testing 3d printers performance">`benchy`</span> structures which were printed in ABS; an untreated one (left), and one coated in Alumina using a <span data-bs-toggle="tooltip" data-bs-placement="top" title="TMA - Trimethylaluminum is a common ALD precursor">`TMA`</span> and water ALD process (right). Both structures were placed on a stage in a desiccator with ~20 mL of acetone at the bottom. Time is in Hours:Minutes.
 
-<div class="row">
-  <div class="col-md-6">
-    {% include figure.html path="assets/img/masters_figure1.png" title="Master's Thesis Figure 1" class="img-fluid rounded z-depth-1" %}
-    <div class="caption">Figure 1: [Figure caption]</div>
-  </div>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iPg_9tKs5eE" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 <br>
 
