@@ -5,7 +5,7 @@ description: "An interactive journey through code, creativity, and problem-solvi
 img: /assets/img/prof_pic.jpg
 importance: 2
 category: fun
-published: true
+published: false
 ---
 
 <div class="alert alert-info" role="alert">
