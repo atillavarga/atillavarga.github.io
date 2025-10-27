@@ -12,28 +12,19 @@ published: true
 
 This website is built using the **al-folio** Jekyll theme, which I have modified and personallized. The source code is available on [GitHub](https://github.com/atillavarga/atillavarga.github.io) 
 
-This website leverages a modern web development stack:
+This website leverages:
 - **Jekyll** - Static site generator that transforms Markdown and Liquid templates into HTML
 - **GitHub Pages** - Free hosting and deployment platform
 - **GitHub Actions** - Automated testing and deployment workflows
-
-### Languages & Frameworks
 - **HTML5** - Semantic markup and structure
 - **SCSS/Sass** - Enhanced CSS with variables, nesting, and mixins
 - **JavaScript** - Interactive elements and dynamic functionality
 - **Liquid** - Templating language for dynamic content
 - **Markdown** - Content authoring and documentation
 
-### Libraries & Tools
-- **Bootstrap** - Responsive CSS framework for mobile-first design
-- **Font Awesome** - Icon library for visual elements
-- **jQuery** - DOM manipulation and event handling
-- **MathJax** - Mathematical notation rendering
-- **Academicons** - Academic and research-related icons
-
 
 ## Cool Features
-
+---
 ### Dark Mode Support
 The website automatically adapts to your system's dark/light mode preference, with smooth transitions and optimized color schemes for both themes. Even the chemical structures (which normally have black bond lines) are automatically adjusted to be visible in both modes - no two image assests used.
 
