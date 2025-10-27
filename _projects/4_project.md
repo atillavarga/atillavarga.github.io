@@ -25,7 +25,7 @@ This website leverages:
 ## Cool Features
 ---
 ### Dark Mode Support
-The website automatically adapts to your system's dark/light mode preference, with smooth transitions and optimized color schemes for both themes. Chemical structures image, and graphs are automatically adjusted to be visible in both modes. Try it out on the copper precursors [page](/projects/2_project) 
+The website automatically adapts to your system's dark/light mode preference, with smooth transitions and optimized color schemes for both themes. Chemical structures image, and graphs are automatically adjusted to be visible in both modes. Try it out on the copper precursors [page](/projects/2_project).
 
 ### Optimized Performance
 - **Static generation** ensures fast loading times
