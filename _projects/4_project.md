@@ -4,7 +4,6 @@ title: "Coding Apps and Tools"
 description: "A few coding projects and tools I have made"
 img: assets/img/prof_pic.jpg
 importance: 2
-category: Fun
 published: true
 ---
 
