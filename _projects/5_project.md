@@ -10,7 +10,7 @@ published: true
 
 ## The Project
 
-During my undergradute degree, my grad student surprivisor Matthew Griffiths developed the first gold ALD process. We made the gold precursors ourselves, but buying the starting reagent (gold chloride) was really expensive. Instead of buying the commercial reagent, we came up with a cheaper way - we bought pure gold from the Royal Mint and dissolved it ourselves using chlorine gas.
+During my undergradute degree, my grad student surprivisor Matthew Griffiths developed the first gold ALD process. We made the gold precursors ourselves, but buying the starting reagent (gold chloride) was really expensive. Instead of buying the commercial reagent, we came up with a cheaper way - we bought pure gold and dissolved it ourselves using chlorine gas.
 
 ### How We Did It
 
