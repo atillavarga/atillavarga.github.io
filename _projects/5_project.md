@@ -27,9 +27,10 @@ We purchased pure gold, which is much cheaper per gram than the starting reagent
 
 The reaction took place via adding dropwise hydrochloric acid to potassium permanganate to generate Chlorine gas. The gas was then bubbled into a flask of gold pelets in water at room temperature. The excess unreacted chlorine gas was bubbled through a solution of sodium thiosulfate and water to consume any remaining gas. The reaction took a few hours, but we ended up with solution of gold chloride that we could use for the rest of the synthesis.
 
+
 <div class="row justify-content-center">
     <div class="col-md-8">
-        <video width="100%" controls>
+        <video width="100%" muted autoplay loop>
             <source src="{{ '/assets/video/bubbling_gold_digestion.mp4' | relative_url }}" type="video/mp4">
             Your browser does not support the video tag.
         </video>
