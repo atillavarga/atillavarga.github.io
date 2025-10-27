@@ -1,52 +1,53 @@
 ---
 layout: page
-title: project 5
-description: a project with a background image
-img: assets/img/1.jpg
+title: "Gold Digestion"
+description: "Dissolving gold for synthesis of gold precursors"
+img: assets/img/gold_digestion.png
 importance: 3
-category: fun
-published: false
+category: Academic
+published: true
 ---
 
-Every project has a beautiful feature showcase page.
-It's easy to include images in a flexible 3-column grid format.
-Make your photos 1/3, 2/3, or full width.
+## The Project
 
-To give your project a background in the portfolio page, just add the img tag to the front matter like so:
+In university, we needed to make gold precursors for atomic layer deposition, but buying gold chloride was really expensive. Instead of spending a fortune on commercial chemicals, we came up with a cheaper way - we bought pure gold from the Royal Mint and dissolved it ourselves using chlorine gas.
 
-    ---
-    layout: page
-    title: project
-    description: a project with a background image
-    img: /assets/img/12.jpg
-    ---
+## Why This Matters
 
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/1.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/3.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/5.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+Gold chloride from chemical suppliers costs a lot because it's a specialty chemical. But gold bullion from the Royal Mint is much cheaper per gram of gold. By digesting the gold ourselves, we cut the costs by about 70%. This made our research more affordable and showed how to be resourceful in the lab.
+
+## How We Did It
+
+We started with high-purity gold (99.99%) from the Royal Mint. The gold came as small pieces that we could handle easily. We built a reaction setup where we could heat the gold and pass chlorine gas over it.
+
+<div class="row justify-content-center">
+    <div class="col-md-8">
+        {% include figure.html path="assets/img/gold_digestion.png" title="Gold digestion setup" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
-    Caption photos easily. On the left, a road goes through a tunnel. Middle, leaves artistically fall in a hipster photoshoot. Right, in another hipster photoshoot, a lumberjack grasps a handful of pine needles.
-</div>
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/5.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
-    This image can also have a caption. It's like magic.
+    Our custom setup for dissolving gold with chlorine gas.
 </div>
 
-You can also put regular text between your rows of images.
-Say you wanted to write a little bit about your project before you posted the rest of the images.
-You describe how you toiled, sweated, *bled* for your project, and then... you reveal its glory in the next row of images.
+The reaction took place at around 300-350°C with a steady flow of chlorine gas. It took a few hours, but we ended up with gold chloride that we could use just like the expensive commercial stuff.
+
+## Making the Precursor
+
+Once we had the gold chloride, we reacted it with other chemicals to make a gold precursor suitable for ALD. We used ligands that would make the compound volatile enough to evaporate in the deposition chamber.
+
+The final product was tested to make sure it had the right properties - it needed to be stable, volatile, and leave behind pure gold films when heated.
+
+## Safety First
+
+Working with chlorine gas requires careful safety measures. We did all the reactions in a fume hood with proper ventilation and gas monitoring. Everyone wore protective equipment and we had emergency procedures in place. Gold compounds can also be hazardous, so we handled them with care and disposed of waste properly.
+
+## What We Learned
+
+This project taught us that sometimes the most expensive chemicals aren't necessary if you can make them yourself. It also showed how to work safely with corrosive gases and precious metals. The method we developed could be useful for other researchers who need gold compounds but want to keep costs down.
+
+---
+
+*This was part of my undergraduate research in chemistry, where we learned to be creative with lab resources.*
 
 
 <div class="row justify-content-sm-center">
