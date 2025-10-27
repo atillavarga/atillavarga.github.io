@@ -10,7 +10,7 @@ published: true
 
 ### Personal Website
 
-This website is built using the **al-folio** Jekyll theme, which I have modified and personallized. The source code is available on [GitHub](https://github.com/atillavarga/atillavarga.github.io) 
+This website is built using the **al-folio** Jekyll theme, which I have modified and personalized. The repo is available on [GitHub](https://github.com/atillavarga/atillavarga.github.io) 
 
 This website leverages:
 - **Jekyll** - Static site generator that transforms Markdown and Liquid templates into HTML
@@ -22,11 +22,10 @@ This website leverages:
 - **Liquid** - Templating language for dynamic content
 - **Markdown** - Content authoring and documentation
 
-
 ## Cool Features
 ---
 ### Dark Mode Support
-The website automatically adapts to your system's dark/light mode preference, with smooth transitions and optimized color schemes for both themes. Even the chemical structures (which normally have black bond lines) are automatically adjusted to be visible in both modes - no two image assests used.
+The website automatically adapts to your system's dark/light mode preference, with smooth transitions and optimized color schemes for both themes. Even the chemical structures (which normally have black bond lines) are automatically adjusted to be visible in both modes - no two image assets used.
 
 ### Optimized Performance
 - **Static generation** ensures fast loading times

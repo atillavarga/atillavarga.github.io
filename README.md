@@ -33,18 +33,6 @@ This is my personal academic portfolio website, showcasing my research in chemis
 - **Bootstrap**: Responsive layout framework
 - **JavaScript**: Interactive elements and functionality
 
-## Original al-folio Theme
-
-This website is based on the [al-folio](https://github.com/alshedivat/al-folio) theme, a beautiful and responsive Jekyll theme for academics. The original theme includes many features and is actively maintained by the community.
-
-<div align="center">
-
-[![Original Theme](assets/img/readme_preview/al-folio-preview.png)](https://alshedivat.github.io/al-folio/)
-
-**Check out the original al-folio theme and its amazing features!**
-
-</div>
-
 ## Getting Started
 
 To run this website locally:

@@ -10,7 +10,7 @@ published: true
 
 ## The Project
 
-During my undergradute degree, my grad student surprivisor Matthew Griffiths developed the first gold ALD process. We made the gold precursors ourselves, but buying the starting reagent (gold chloride) was really expensive. Instead of buying the commercial reagent, we came up with a cheaper way - we bought pure gold and dissolved it ourselves using chlorine gas.
+During my undergraduate degree, my grad student supervisor Matthew Griffiths developed the first gold ALD process. We made the gold precursors ourselves, but buying the starting reagent (gold chloride) was really expensive. Instead of buying the commercial reagent, we came up with a cheaper way - we bought pure gold and dissolved it ourselves using chlorine gas.
 
 ### How We Did It
 
@@ -25,7 +25,7 @@ We purchased pure gold, which is much cheaper per gram than the starting reagent
     Our custom setup for dissolving gold with chlorine gas.
 </div>
 
-The reaction took place via adding dropwise hydrochloric acid to potassium permanganate to generate Chlorine gas. The gas was then bubbled into a flask of gold pelets in water at room temperature. The excess unreacted chlorine gas was bubbled through a solution of sodium thiosulfate and water to consume any remaining gas. The reaction took a few hours, but we ended up with solution of gold chloride that we could use for the rest of the synthesis.
+The reaction took place via adding dropwise hydrochloric acid to potassium permanganate to generate Chlorine gas. The gas was then bubbled into a flask of gold pellets in water at room temperature. The excess unreacted chlorine gas was bubbled through a solution of sodium thiosulfate and water to consume any remaining gas. The reaction took a few hours, but we ended up with solution of gold chloride that we could use for the rest of the synthesis.
 
 
 <div class="row justify-content-center">
