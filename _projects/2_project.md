@@ -44,10 +44,10 @@ Copper metal thin films continue to be used as an interconnect material for sili
 
 ### Synthesis Route
 Overview of the synthesis steps, beginning with the common starting material.
-{% include figure.html path="assets/img/starting_salt.png" title="starting material" class="img-fluid rounded z-depth-1" %}
+{% include figure.html path="assets/img/starting_salt.png" title="starting material" class="img-fluid rounded z-depth-1 img-invert-on-dark" %}
 
 Further synthesis of Copper NHC precursors.
-{% include figure.html path="assets/img/precursors_synthesis.png" title="copper precursors" class="img-fluid rounded z-depth-1" %}
+{% include figure.html path="assets/img/precursors_synthesis.png" title="copper precursors" class="img-fluid rounded z-depth-1 img-invert-on-dark" %}
 
 <br>
 

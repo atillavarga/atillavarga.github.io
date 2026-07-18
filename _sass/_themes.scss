@@ -92,12 +92,9 @@ html[data-theme='dark'] {
   }
 }
 
+// Class-based invert so PurgeCSS keeps these rules (attribute selectors get stripped)
+html[data-theme='dark'] img.img-invert-on-dark,
 html[data-theme='dark'] img[src$=".svg"] {
-  filter: invert(1) brightness(1.1);
-}
-
-html[data-theme='dark'] img[src*="starting_salt.png"],
-html[data-theme='dark'] img[src*="precursors_synthesis.png"] {
   filter: invert(1) brightness(1.1);
 }
 

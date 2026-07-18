@@ -9,5 +9,15 @@ module.exports = {
     output: "_site/assets/css/",
     skippedContentGlobs: [
         "_site/assets/**/*.html"
-    ]
+    ],
+    safelist: {
+        standard: [
+            "img-invert-on-dark",
+            "chemical-svg"
+        ],
+        deep: [
+            /img-invert-on-dark/,
+            /data-theme/
+        ]
+    }
 };
